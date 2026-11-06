@@ -1,0 +1,15 @@
+{
+  "name": "Iron Log",
+  "short_name": "Iron Log",
+  "description": "Workout log with templates, easier and harder alternates, and how-to notes. Your data stays on your phone.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eceff2",
+  "theme_color": "#2149bd",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
